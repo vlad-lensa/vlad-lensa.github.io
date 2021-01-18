@@ -53,3 +53,5 @@ plugins:
 
 collections:
   - products
+
+theme: jekyll-theme-cayman
